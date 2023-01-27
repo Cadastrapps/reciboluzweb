@@ -1,9 +1,9 @@
 {
-"showAds":true,
+"showAds":false,
   "adsInterval":60,
   "showAppOpenAd":true,
   "showFirstAd":true,
-  "showTestAds":false,
+  "showTestAds":true,
   "interstitialAdUnit":"/22405025169,22727539007/com.tramitapps.recibo.luz.cfe.tarifas.Interstitial",
   "openAppAdUnitId":"/22405025169,22727539007/com.tramitapps.recibo.luz.cfe.tarifas.AppOpen1"
 }
