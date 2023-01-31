@@ -3,7 +3,7 @@
   "adsInterval":60,
   "showAppOpenAd":true,
   "showFirstAd":true,
-  "showTestAds":true,
-  "interstitialAdUnit":"/22405025169,22727539007/com.tramitapps.recibo.luz.cfe.tarifas.Interstitial",
-  "openAppAdUnitId":"/22405025169,22727539007/com.tramitapps.recibo.luz.cfe.tarifas.AppOpen1"
+  "showTestAds":false,
+  "interstitialAdUnit":"/22387492205,22871850028/com.tramitapps.recibo.luz.cfe.tarifas.AppOpen0.1675160437",
+  "openAppAdUnitId":"/22387492205,22871850028/com.tramitapps.recibo.luz.cfe.tarifas.AppOpen0.1675160437"
 }
