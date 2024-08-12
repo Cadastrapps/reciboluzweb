@@ -1,10 +1,14 @@
 {
-"showAds":false,
-  "showWeb":true,
+  "showAds":true,
   "adsInterval":45,
-  "showAppOpenAd":false,
+  "showAppOpenAd":true,
   "showFirstAd":false,
-  "showTestAds":false,
-  "interstitialAdUnit":"/22387492205,22871850028/com.tramitapps.recibo.luz.cfe.tarifas.Interstitial0.1675160398",
-  "openAppAdUnitId":"/22387492205,22871850028/com.tramitapps.recibo.luz.cfe.tarifas.AppOpen0.1675160437"
+  "showInterstitial":true,
+  "showTestAds":true,
+  "showBannerAds":true,
+  "interstitialAdUnit":"ca-app-pub-7996006950744275/9780520897",
+  "openAppAdUnitId":"ca-app-pub-7996006950744275/3901039068",
+  "bannerAdUnit":"ca-app-pub-7996006950744275/8170660409",
+  "showNews":true
+  
 }
